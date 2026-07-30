@@ -1,15 +1,15 @@
 title: "Tianyu Li"
 position: "Ph.D. Student"
-affiliation: "Department of Supply Chain & Operations Management, Purdue University"
-email: "li5304 (at) purdue.edu"
+affiliation: "Department of Supply Chain & Operations Management @ Purdue University"
+email: "li5304@purdue.edu"
 lang: "en-US"
 
 url: "https://tienyuli.github.io"
 baseurl: ""
 canonical: "https://tienyuli.github.io/"
 
-keywords: "operations management, inventory control, dynamic pricing, stochastic optimization, dynamic programming"
-description: "Tianyu Li's academic homepage."
+keywords: ""
+description: "Tianyu Li's homepage."
 noindex: true
 
 # github_link: "https://github.com/TienYuLi"
