@@ -1,0 +1,134 @@
+.visitor-map-section {
+  margin-top: 2rem;
+}
+
+.visitor-map-note,
+.visitor-privacy-note {
+  color: #666;
+  font-size: 0.86rem;
+}
+
+.visitor-map-summary {
+  margin: 0 0 0.75rem;
+  font-size: 0.95rem;
+}
+
+.visitor-map-frame {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+#visitor-world-map {
+  display: block;
+  width: 100%;
+  height: auto;
+  min-height: 260px;
+}
+
+.visitor-country {
+  fill: #eceff2;
+  stroke: #fff;
+  stroke-width: 0.6;
+  vector-effect: non-scaling-stroke;
+}
+
+.visitor-city-point {
+  fill: #2f7ebc;
+  fill-opacity: 0.75;
+  stroke: #fff;
+  stroke-width: 1.2;
+  cursor: pointer;
+  vector-effect: non-scaling-stroke;
+}
+
+.visitor-city-point:focus,
+.visitor-city-point:hover {
+  fill-opacity: 1;
+  stroke-width: 2;
+  outline: none;
+}
+
+.visitor-map-tooltip {
+  position: absolute;
+  z-index: 10;
+  max-width: 260px;
+  padding: 8px 10px;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.97);
+  color: #222;
+  font-size: 0.82rem;
+  line-height: 1.4;
+  pointer-events: none;
+}
+
+.visitor-recent-heading {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.visitor-recent-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.45rem 1rem;
+  margin-bottom: 1rem;
+}
+
+.visitor-recent-item {
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #eee;
+}
+
+.visitor-recent-place {
+  display: block;
+  font-weight: 500;
+}
+
+.visitor-recent-time {
+  display: block;
+  color: #666;
+  font-size: 0.78rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  .visitor-map-note,
+  .visitor-privacy-note,
+  .visitor-recent-time {
+    color: #b7bac2;
+  }
+
+  .visitor-map-frame {
+    border-color: #444753;
+    background: #252731;
+  }
+
+  .visitor-country {
+    fill: #363944;
+    stroke: #242630;
+  }
+
+  .visitor-city-point {
+    fill: #3eb7f0;
+    stroke: #20212b;
+  }
+
+  .visitor-map-tooltip {
+    border-color: #555966;
+    background: rgba(32, 33, 43, 0.97);
+    color: #eeeff0;
+  }
+
+  .visitor-recent-item {
+    border-bottom-color: #3c3f4b;
+  }
+}
+
+@media (max-width: 640px) {
+  .visitor-recent-list {
+    grid-template-columns: 1fr;
+  }
+}
