@@ -5,8 +5,8 @@ email: "li5304@purdue.edu"
 lang: "en-US"
 
 url: "https://tienyuli.github.io"
-baseurl: ""
-canonical: "https://tienyuli.github.io/"
+baseurl: "/homepage"
+canonical: "https://tienyuli.github.io/homepage/"
 
 keywords: ""
 description: "Tianyu Li's homepage."
@@ -21,7 +21,7 @@ linkedin: "https://www.linkedin.com/in/tianyu-l-903a57364/"
 # Keep the CV disabled if you do not want the PDF indexed separately.
 # cv_link: "assets/files/Tianyu_Li_CV.pdf"
 
-avatar: "./assets/img/avatar.png"
+avatar: null
 favicon: "./assets/img/favicon.png"
 favicon_dark: "./assets/img/favicon-dark.png"
 
