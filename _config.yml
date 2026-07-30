@@ -31,7 +31,6 @@ font: "Serif"
 
 visitor_api_base: "https://tienyuli-visitor-map.tianyuli-homepage.workers.dev"
 visitor_display_timezone: "America/Indiana/Indianapolis"
-visitor_public_days: 30
 
 exclude:
   - Gemfile
