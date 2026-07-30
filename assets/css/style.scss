@@ -2,3 +2,20 @@
 ---
 
 @import "minimal-light";
+
+/* Keep the left profile panel vertically centered on desktop */
+@media screen and (min-width: 961px) {
+  header {
+    top: 50%;
+    transform: translateY(-50%);
+    padding-top: 0;
+  }
+}
+
+/* Restore the original mobile layout */
+@media screen and (max-width: 960px) {
+  header {
+    top: auto;
+    transform: none;
+  }
+}
