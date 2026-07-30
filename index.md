@@ -10,6 +10,6 @@ Greetings! I am a Ph.D. student in Supply Chain & Operations Management at Purdu
 
 - **Methodology:** dynamic programming and optimal control, stochastic modeling
 - **Application:** inventory theory
-- I am exploring applications of AI to decision-making. I am also broadly interested in mathematical questions in analysis, geometry, and probability arising from decision problems.
+- I am exploring applications of AI to decision-making. I am also broadly interested in mathematical questions in analysis, geometry, and probability arising from decision-making problems.
 
 
