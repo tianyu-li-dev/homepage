@@ -1,0 +1,42 @@
+<section class="visitor-map-section" aria-labelledby="visitor-map-title">
+  <h2 id="visitor-map-title">Visitor Map</h2>
+  <p class="visitor-map-note">
+    Approximate city-level locations inferred from visitors' IP addresses. VPNs,
+    campus networks, and mobile carriers may make locations inaccurate.
+  </p>
+
+  <div id="visitor-map-summary" class="visitor-map-summary" aria-live="polite">
+    Loading visitor map…
+  </div>
+
+  <div class="visitor-map-frame">
+    <svg
+      id="visitor-world-map"
+      viewBox="0 0 960 500"
+      role="img"
+      aria-label="World map showing approximate recent visitor cities"
+    ></svg>
+    <div id="visitor-map-tooltip" class="visitor-map-tooltip" hidden></div>
+  </div>
+
+  <h3 class="visitor-recent-heading">Recent visitors</h3>
+  <div id="visitor-recent-list" class="visitor-recent-list" aria-live="polite">
+    Loading recent visits…
+  </div>
+
+  <p class="visitor-privacy-note">
+    This website records IP address, approximate location, visit time, and page
+    information for traffic analytics. Public display excludes IP addresses.
+  </p>
+</section>
+
+<script>
+  window.VISITOR_MAP_CONFIG = {
+    apiBase: {{ site.visitor_api_base | jsonify }},
+    displayTimeZone: {{ site.visitor_display_timezone | default: "America/Indiana/Indianapolis" | jsonify }},
+    publicDays: {{ site.visitor_public_days | default: 30 | jsonify }}
+  };
+</script>
+<script defer src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+<script defer src="{{ '/assets/js/visitor-map.js' | relative_url }}"></script>
