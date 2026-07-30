@@ -45,7 +45,7 @@ remote_theme: yaoyao-liu/minimal-light
 # Fill in the Worker URL later
 # ==================================================
 
-visitor_api_base: "https://REPLACE_WITH_YOUR_WORKER.workers.dev"
+visitor_api_base: ""https://tienyuli-visitor-map.tianyuli-homepage.workers.dev""
 visitor_display_timezone: "America/Indiana/Indianapolis"
 visitor_public_days: 30
 
