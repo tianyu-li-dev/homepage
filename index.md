@@ -4,16 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Greetings! I am a Ph.D. student in Supply Chain & Operations Management at Purdue University under the supervision of Professors William B. Haskell and Chen-An Lin. I do mathematical engineering and operations management. My research focus is on developing methods and applications of sequential decision-making problems.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Methodology:** dynamic programming and optimal control
+- **Applications:** stochastic modeling, inventory theory
 
-## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
