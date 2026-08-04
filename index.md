@@ -28,7 +28,7 @@ We use double machine learning to evaluate the clinical consequences of prolonge
 
 ## Projects
 
-### A Distributionally Preference Robust Optimization Fine-tuning Method for LLM
+### A Distributionally Preference Robust Optimization Fine-Tuning Method for LLM
 with B. Bian, Y. Wang and H. Zhang.
 
 ---
