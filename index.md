@@ -20,7 +20,7 @@ with C.A. Lin and W. B. Haskell.
 We study certainty-equivalent control without and with reoptimization in a finite-horizon stochastic inventory system with endogenous pricing and replenishment decisions.
 
 ### Causal Effect of Prolonged Continuous Renal Replacement Therapy on Mortality of Patients in the ICU: A Retrospective Cohort Study
-with R. Yang, T. Shi, J. Ma, H. Zhao and G. Kong. Under Revision in *PLOS Digital Health*.
+with R. Yang, T. Shi, J. Ma, H. Zhao and G. Kong. Under revision at *PLOS Digital Health*.
 
 We use double machine learning to evaluate the clinical consequences of prolonged versus timely CRRT discontinuation.
 
@@ -30,6 +30,7 @@ We use double machine learning to evaluate the clinical consequences of prolonge
 
 ### A Distributionally Preference Robust Optimization Fine-tuning Method for LLM
 with B. Bian, Y. Wang and H. Zhang.
+
 ---
 
 ## Work in Progress
