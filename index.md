@@ -22,12 +22,7 @@ We study certainty-equivalent control without and with reoptimization in a finit
 ### Causal Effect of Prolonged Continuous Renal Replacement Therapy on Mortality of Patients in the ICU: A Retrospective Cohort Study
 with R. Yang, T. Shi, J. Ma, H. Zhao and G. Kong. Under Revision in *PLOS Digital Health*.
 
----
-
-## Work in Progress
-
-### Primal-Dual Online Convex Optimization for Stochastic Dynamic Programming
-with C.A. Lin and W. B. Haskell.
+We use double machine learning to evaluate the clinical consequences of prolonged versus timely CRRT discontinuation.
 
 ---
 
@@ -35,5 +30,12 @@ with C.A. Lin and W. B. Haskell.
 
 ### A Distributionally Preference Robust Optimization Fine-tuning Method for LLM
 with B. Bian, Y. Wang and H. Zhang.
+---
+
+## Work in Progress
+
+### Primal-Dual Online Convex Optimization for Stochastic Dynamic Programming
+with C.A. Lin and W. B. Haskell.
+
 
 
