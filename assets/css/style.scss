@@ -21,23 +21,29 @@
 }
 
 
+
 /* Global font size */
 html {
-  font-size: 18px;
+  font-size: 21px;
 }
 
 body {
-  font-size: 18px;
+  font-size: 21px;
   line-height: 1.6;
 }
 
 /* Main title (name) */
 h1 {
-  font-size: 32px;
+  font-size: 38px;
+}
+
+/* Section headings */
+h2 {
+  font-size: 1.5em;
 }
 
 /* Small text */
 small {
-  font-size: 13px;
+  font-size: 15px;
 }
 
