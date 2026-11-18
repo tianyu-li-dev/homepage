@@ -10,7 +10,7 @@ Greetings! I am a Ph.D. student in Supply Chain & Operations Management at Purdu
 
 - **Methodology:** dynamic programming and optimal control, data-driven and online optimization, stochastic modeling
 - **Application:** pricing & inventory, healthcare, AI in business decision-making, digital twin, last-mile delivery & vehicle routing
-- I am also broadly interested in mathematical questions in analysis, geometry, and probability arising from decision-making problems.
+- I am also broadly interested in mathematical problems in analysis, geometry, and probability arising from decision-making problems.
 
 ## Working Papers
 
