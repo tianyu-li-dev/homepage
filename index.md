@@ -20,7 +20,7 @@ with C.A. Lin and W. B. Haskell.
 How well does certainty-equivalent (CE) control perform for a finite-horizon stochastic inventory system with endogenous pricing and replenishment decisions? Are there any ways to make CE control smarter (e.g., reduce its computational burden), and what benefit does it bring compared to other variants of CE control in the literature? 
 
 ### Causal Effect of Prolonged Continuous Renal Replacement Therapy on Mortality of Patients in the ICU: A Retrospective Cohort Study
-with R. Yang, T. Shi, J. Ma, H. Zhao and G. Kong. Provisionally accepted by *PLOS Digital Health*. [GitHub](https://github.com/tianyu-li-dev/prolonged-crrt)
+with R. Yang, T. Shi, J. Ma, H. Zhao and G. Kong. Provisionally accepted by *PLOS Digital Health*. [\[GitHub\]](https://github.com/tianyu-li-dev/prolonged-crrt)
 
 We use double machine learning to evaluate the clinical consequences of prolonged versus timely CRRT discontinuation.
 
