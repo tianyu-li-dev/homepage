@@ -31,7 +31,7 @@ We use double machine learning to evaluate the clinical consequences of prolonge
 ### A Distributionally Preference Robust Optimization Fine-Tuning Method for LLM
 with B. Bian, Y. Wang and H. Zhang.
 
-RLHF under a distributionally perference robust optimization framework.
+RLHF under a distributionally preference robust optimization framework.
 
 ---
 
