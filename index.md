@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Greetings! I am a Ph.D. student in Supply Chain & Operations Management at Purdue University advised by Professors [William B. Haskell](https://www.wbhaskell.com/) and [Chen-An Lin](https://web.ics.purdue.edu/~lin1800/index.html). I do operations management and [mathematical engineering](https://tr.wikipedia.org/wiki/Matematik_m%C3%BChendisli%C4%9Fi) for smarter decisions. My current research focuses on developing methods for data-driven & sequential decision-making and applying them to real-world business settings.
+Greetings! I am a Ph.D. candidate in Supply Chain & Operations Management at Purdue University advised by Professors [William B. Haskell](https://www.wbhaskell.com/) and [Chen-An Lin](https://web.ics.purdue.edu/~lin1800/index.html). I do operations management and [mathematical engineering](https://tr.wikipedia.org/wiki/Matematik_m%C3%BChendisli%C4%9Fi) for smarter decisions. My current research focuses on developing methods for data-driven & sequential decision-making and applying them to real-world business settings.
 
 ## Research Interests
 
@@ -20,7 +20,7 @@ with C.A. Lin and W. B. Haskell.
 How well does certainty-equivalent (CE) control perform for a finite-horizon stochastic inventory system with endogenous pricing and replenishment decisions? Are there any ways to make CE control smarter (e.g., reduce its computational burden), and what benefit does it bring compared to other variants of CE control in the literature? 
 
 ### Causal Effect of Prolonged Continuous Renal Replacement Therapy on Mortality of Patients in the ICU: A Retrospective Cohort Study
-with R. Yang, T. Shi, J. Ma, H. Zhao and G. Kong. Under revision at *PLOS Digital Health*.
+with R. Yang, T. Shi, J. Ma, H. Zhao and G. Kong. Provisionally accepted by *PLOS Digital Health*. [GitHub](https://github.com/tianyu-li-dev/prolonged-crrt)
 
 We use double machine learning to evaluate the clinical consequences of prolonged versus timely CRRT discontinuation.
 
@@ -39,6 +39,10 @@ RLHF under a distributionally preference robust optimization framework.
 
 ### Primal-Dual Online Convex Optimization for Stochastic Dynamic Programming
 with C.A. Lin and W. B. Haskell.
+
+### Digital Twin Synchronization
+
+### Data-Driven Vehicle Routing via Operational Data Analytics
 
 
 
